@@ -1,0 +1,9 @@
+apiVersion: v2
+name: nginx
+description: A Helm chart for Kubernetes nginx deployment
+type: application
+version: 1.0.0
+appVersion: "1.24.0"
+maintainers:
+  - name: karthik851
+    email: karthik@example.com
